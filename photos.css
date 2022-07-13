@@ -1,0 +1,22 @@
+img{
+    width:30%;
+    margin:calc(10%/12);
+    border:calc(10%/12) solid antiquewhite;
+}
+body{
+    background-color: palevioletred;
+}
+nav{
+    text-transform:uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left:calc(10%/6);
+    padding:1.2em 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:1.5em;
+
+}
+p{
+    font-size: small;
+    text-decoration: none;
+}
