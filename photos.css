@@ -1,10 +1,10 @@
 img{
-    width:30%;
+    width:40px;
     margin:calc(10%/12);
     border:calc(10%/12) solid antiquewhite;
 }
 body{
-    background-color: palevioletred;
+    background-color: blue;
 }
 nav{
     text-transform:uppercase;
